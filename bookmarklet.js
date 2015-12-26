@@ -1,0 +1,1 @@
+javascript:void(!function(d){COUNTER_DOMAIN="https://rawgit.com";var s =d.createElement("script");s.type="text/javascript";s.src=COUNTER_DOMAIN+"/matsumatsu233/TiebaReplyCounter/master/count.js";d.head.appendChild(s);}(document));
