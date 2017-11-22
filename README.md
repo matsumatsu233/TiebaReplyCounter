@@ -1,3 +1,5 @@
+English/[简体中文](README.cn.md)
+
 ## About
 A bookmarklet to get tieba reply count of each baidu account for a specific discussion branch(which is called tie or tiezi in Chinese).
 
